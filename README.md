@@ -23,15 +23,15 @@ Voice of Norway (VON) is your companion app for art, culture, history, and infor
     
 - 03 Tailored Content for All: 
   - Explore Norway's art, culture, history, and information with content tailored for all ages. 
-  - From nature and wildlife enthusiasts to those interested in Viking battles and war stories, VON caters to diverse interests. 
+  - From nature and wildlife enthusiasts to those interested in Viking battles and war stories, VON caters to diverse interests.
 
-- 04 Immersive Insights: 
- - Enrich your journey with immersive insights into Norway's past and present. 
- - Provide users with a deeper understanding of the country's heritage, enhancing their overall experience.
-   
-- 05 Empowering Storytelling: 
- - Empower users to convey their message effectively through enhanced storytelling. 
- - Utilize VON services to create impactful narratives that leave a lasting impression on customers.
+- 04 Immersive Insights:
+   - Enrich your journey with immersive insights into Norway's past and present.
+   - Provide users with a deeper understanding of the country's heritage, enhancing their overall experience.
+ 
+- 05 Empowering Storytelling:
+   - Empower users to convey their message effectively through enhanced storytelling. 
+   - Utilize VON services to create impactful narratives that leave a lasting impression on customers.
 
 - 06 Customer Engagement Enhancement: 
   - Enhance customer engagement efforts through VON services. 
