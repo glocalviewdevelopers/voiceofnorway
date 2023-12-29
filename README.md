@@ -46,12 +46,12 @@ Voice of Norway (VON) is your companion app for art, culture, history, and infor
   - Facilitate easy navigation and interaction with the app's features.
  
 - 09 Mission for Lasting Impact: 
- - Voice of Norway is on a mission to empower users to leave a lasting impact on their customers. 
- - Achieve this mission by delivering engaging, informative, and memorable experiences through the app.
+  - Voice of Norway is on a mission to empower users to leave a lasting impact on their customers. 
+  - Achieve this mission by delivering engaging, informative, and memorable experiences through the app.
 
 - 10 Commitment to Excellence: 
- - Voice of Norway is committed to providing the means for engaging and educating audiences like never before. 
- - Uphold a commitment to excellence in delivering high-quality, innovative services for a superior customer experience. 
+  - Voice of Norway is committed to providing the means for engaging and educating audiences like never before. 
+  - Uphold a commitment to excellence in delivering high-quality, innovative services for a superior customer experience. 
 
 
 # Platforms:
